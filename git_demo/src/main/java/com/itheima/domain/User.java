@@ -4,5 +4,7 @@ public class User {
     private Integer id;
     private String name;
     private Integer age;
-    private String education;
+    private Integer phoneNumber;
+
+    private String fenzhi;
 }
